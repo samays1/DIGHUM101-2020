@@ -5,3 +5,11 @@ jupyter
 nltk
 spacy
 seaborn
+geopandas
+mapclassify
+descartes
+praw
+tweepy
+bs4
+scipy
+sklearn
